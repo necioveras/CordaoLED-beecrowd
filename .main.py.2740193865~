@@ -1,0 +1,17 @@
+N, L = map(int, input().split())
+
+grafo = []
+
+#criando a matriz de adjacencia
+for i in range(N):
+  grafo.append([0] * N)
+  
+  
+for i in range(L):
+  x, y = map(int, input().split())
+  grafo
+  
+  
+
+print("\n", grafo)
+exit(1)
